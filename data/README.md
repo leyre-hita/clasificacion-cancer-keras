@@ -16,7 +16,10 @@ Target variable:
 - 1 → Malignant
 
 The dataset can be loaded directly using scikit-learn:
+```python
 from sklearn.datasets import load_breast_cancer
+
 data = load_breast_cancer()
+```
 
 
